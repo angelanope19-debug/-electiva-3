@@ -1,0 +1,11 @@
+title,amount,date,customer_id,status,email
+T001,1500.00,2024-01-15,C001,completed,john@example.com
+T002,2300.50,2024-01-20,C002,pending,jane@example.com
+T003,450.00,2024-01-22,C003,failed,bob@example.com
+T004,5000.00,2024-01-25,C004,completed,alice@example.com
+T005,1500.00,2024-02-01,C001,completed,john@example.com
+T006,,2024-02-05,C005,completed,charlie@example.com
+T007,3200.00,2024-02-10,C006,pending,diana@example.com
+T008,750.00,2025-13-45,,pending,evan@example.com
+T009,999999.00,2024-02-15,C008,completed,frank@@example.com
+T010,1200.00,2024-02-20,C009,unknown,grace@example.com

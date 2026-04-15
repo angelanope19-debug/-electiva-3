@@ -1,0 +1,11 @@
+customer_id,name,email,phone,registration_date,total_spent,status
+1,John Doe,john@example.com,555-0101,2023-01-15,1500.00,active
+2,Jane Smith,jane@example.com,,2023-02-20,2300.50,active
+3,Bob Johnson,bob.johnson@example,555-0103,2023-03-10,450.00,inactive
+4,Alice Brown,alice@example.com,555-0104,2023-04-05,5000.00,active
+5,John Doe,john@example.com,555-0101,2023-01-15,1500.00,active
+6,Charlie Wilson,,555-0106,2025-13-45,750.00,pending
+7,Diana Lee,diana@example.com,555-0107,2023-06-12,3200.00,active
+8,Eva Martinez,eva@example.com,invalid-phone,2023-07-22,,active
+9,Frank Davis,frank@@example.com,555-0109,2023-08-30,999999.00,active
+10,Grace Taylor,grace@example.com,555-0110,2023-09-14,1200.00,unknown
